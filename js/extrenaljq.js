@@ -19,7 +19,7 @@ var TxtType = function (el, toRotate, period) {
 };
 
 TxtType.prototype.tick = function () {
-    var i = this.loopNum % this.toRotate.length;
+    var i = this.loopNum % this.toRotate.length;   
     var fullTxt = this.toRotate[i];
 
     if (this.isDeleting) {
