@@ -20,7 +20,7 @@ This project is a web-based platform that provides insights into the rich and di
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/indian-culture.git
+   git clone https://github.com/Parna324/indian-culture.git
    ```
 2. Navigate to the project directory:
    ```sh
